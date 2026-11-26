@@ -2,14 +2,16 @@ name: 'Update schedule'
 
 on:
   schedule:
-    - cron: '0 22 * * *'
+    - cron: '0 22 * * *' # Runs at UTC 22:00
   workflow_dispatch:
     branches:
       - master
       - dev
-      - gdgd
-  permissions:
-   contents: write  # 就是这一行，开启写入权限，解决128报错
+      - gd
+
+permissions:
+  contents: write
+
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
