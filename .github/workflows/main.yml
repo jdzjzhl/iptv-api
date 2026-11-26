@@ -7,7 +7,9 @@ on:
     branches:
       - master
       - dev
-      - gd
+      - gdgd
+  permissions:
+   contents: write  # 就是这一行，开启写入权限，解决128报错
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
