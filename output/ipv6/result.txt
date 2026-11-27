@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-26 20:31:13,https://hls-gateway.vpstv.net/streams/476879.m3u8
+2026-11-28 06:55:51,https://hls-gateway.vpstv.net/streams/476879.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://hls-gateway.vpstv.net/streams/476879.m3u8
@@ -559,12 +559,15 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 西藏卫视,https://tv.vtibet.cn/live/HcKTakNfcF6BBi.m3u8?secret=30fc8fe7118466b5e5cbedd754592e01&time=6ac33d3e
 新疆卫视,http://nas.jdshipin.com:8801/xjtv.php?id=xjws
 新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
+新疆卫视,http://nas.jdshipin.com:8801/xjtv.php?id=xjws
+新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
 云南卫视,http://live.wqwqwq.sbs/itv/5000000011000031120.m3u8?cdn=bestzb
 云南卫视,https://hls-gateway.vpstv.net/streams/708863.m3u8
 云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-2.m3u8
 云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-3.m3u8
 
 ☘️广东频道,#genre#
+深圳卫视4K,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws4k
 广东珠江,https://hk.188766.xyz/?migutoken=75d82ac4fd56e5ed0c7ae444fb817bc4&id=gd_gdzj&type=sz
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO
@@ -625,6 +628,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 大湾区卫视,http://mgsp-yx2.live.miguvideo.com:8088/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20260225040208&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=218.28.233.106&SecurityKey=20260225040208&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9c6fc7a5f6c893842b60a130d7cc3407&sv=10004&ct=android
 大湾区卫视,http://mgsp-yx2.live.miguvideo.com:8088/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20260226160234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=218.28.233.106&SecurityKey=20260226160234&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2df1363ba6d9a7bafce70ae5aaa3f8c6&sv=10004&ct=android
 大湾区卫视,http://mgsp-yx2.live.miguvideo.com:8088/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20260228040220&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=218.28.233.106&SecurityKey=20260228040220&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=146f6483022768378d141a8604b768e0&sv=10004&ct=android
+广州综合,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/guangzhou.js?id=zhonghe
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-15.m3u8
@@ -634,7 +638,6 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-3.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-4.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-7.m3u8
-广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-8.m3u8
 广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-1.m3u8
 广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai.m3u8
 佛山综合,https://t.freetv.fun/live/fo-shan-zong-he.m3u8
@@ -684,7 +687,6 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-4.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-2.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江新闻,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=07
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-1.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-2.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-4.m3u8
@@ -693,6 +695,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-6.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-7.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-8.m3u8
+浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-9.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=08
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
@@ -716,7 +719,6 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 温州新闻综合,https://ali-xwl.cztv.com/live/wenzhouds.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江教科影视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=04
 浙江公共新闻,https://t.freetv.fun/live/zhe-jiang-gong-gong-xin-wen-1.m3u8
 衢江新闻综合,https://t.freetv.fun/live/qu-jiang-xin-wen-zong-he.m3u8
 萧山新闻综合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he-2.m3u8
